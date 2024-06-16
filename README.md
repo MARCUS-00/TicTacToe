@@ -56,4 +56,4 @@ This is a real-time multiplayer Tic-Tac-Toe game built using Node.js, Express, a
 
 3. **End of Game:**
    - A message displays who won or if it's a draw.
-   - Refresh the browser to start a new game.
+   - Refresh the browser to start a new game
